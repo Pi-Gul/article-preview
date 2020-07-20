@@ -6,7 +6,8 @@
 html {
   font-size: 16px;
   background-color: grey;
-  --main-padding: 0px 30px;
+  font-family: 'Manrope', sans-serif;
+  --main-padding: 0px 33px;
 }
 body {
   width: 320px;
